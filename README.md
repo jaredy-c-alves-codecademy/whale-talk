@@ -1,0 +1,1 @@
+Project: **Whale Talk**, following tasks from Codecademy.
